@@ -1,0 +1,6 @@
+
+src/virt/
+src/workshop/__pycache__/
+src/workshop/api/__pycache__/
+src/workshop/services/__pycache__/
+src/workshop/models/__pycache__/
